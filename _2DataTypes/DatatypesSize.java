@@ -1,3 +1,5 @@
+package _2DataTypes;
+
 public class DatatypesSize{
     public static void main(String args[]){
         System.out.println("Maximum  Size: "+ Byte.MIN_VALUE);

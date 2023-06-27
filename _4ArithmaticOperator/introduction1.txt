@@ -1,0 +1,22 @@
+increment and decrement operater important points
+
+1. ++pre,post++;
+   --pre,post--
+
+2. for example int x=5;
+                    x++;
+                    S.o.p(x); it gives x=6
+    but int x=5;y;
+        y=x++;
+       ---------------------- and the result will be y=5;x=6-----------------------------------
+        int x=5;y;
+        y=++x;
+        ---result will be x=6,y=6;
+3.int a=3;x=5;y=1;
+    result = a*++x+y; //it is pre increment
+    result will be 19;
+
+    but result = a * x++ + y;
+        result = 17 // it is post increment
+4.increment and decrement operater does not use in boolean datatypes
+       
