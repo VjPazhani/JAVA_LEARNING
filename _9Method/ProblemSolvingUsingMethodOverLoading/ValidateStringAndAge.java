@@ -1,4 +1,4 @@
-package _9Method;
+package _9Method.ProblemSolvingUsingMethodOverLoading;
 
 import java.util.Scanner;
 
