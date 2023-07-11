@@ -10,8 +10,10 @@ public class _11ReverseCopyAnArray {
         int i;
         for(i=0;i<a.length;i++){
             System.out.printf("Enter the value for array a[%d]:",i);
-             a[i]=sc.nextInt();
+        sc.close();
+
         }
+
         for(i=0;i<a.length;i++){
             b[i]=a[i];
         }

@@ -8,9 +8,9 @@ public class _1Intro1 {
         int c[];
         c=new int [12];
         int []d=new int[10];
-        //can i print the array without using foe loop
+        //can i print the array without using for loop
         int e[] = new int[10];
-            System.out.println(e);  // it print [I
+            System.out.println(e);  // it print [I like
             System.out.println("");
 
             System.out.println("============ ================ ===========");
@@ -19,7 +19,7 @@ public class _1Intro1 {
             System.out.println("============ ================ ===========");
 
 
-        //we can find the array using a.lenth that length means property
+        //we can find the array using a.length that length means property
         System.out.println(d.length);
             System.out.println("============ ================ ===========");
 
