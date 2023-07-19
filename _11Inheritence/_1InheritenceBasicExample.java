@@ -2,7 +2,7 @@ package _11Inheritence;
 import java.util.*;
 class Circle {
     public double radius;
-    public  double area(){ //if we put static this method and it throws a error "cannot make aa static reference to naon-static field"
+    public  double area(){ //if we put static this method and it throws a error "cannot make aa static reference to non-static field"
         return Math.PI * radius * radius;
     }
     public double perimeter(){

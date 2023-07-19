@@ -1,4 +1,6 @@
 package _11Inheritence;
+//try to understan only how the properties and method for creating a real world scenario and constructer and get and set method
+//we will understand about parameterized constructer and super class
 
 class Account{
     private String acc_no;
