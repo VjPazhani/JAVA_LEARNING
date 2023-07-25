@@ -6,7 +6,7 @@ public class PracticeMethodVariableArguements1 {
             System.out.println(i+1+". "+S[i]);
         }
     }
-    public static void main(String ...args){ //we can put String[]argd
+    public static void main(String ...args){ //we can put String[]arg
         showList("Raj","Pazhani","Raja","Kani");
 
     }

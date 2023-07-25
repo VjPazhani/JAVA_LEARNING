@@ -2,6 +2,7 @@
 package _9Method;
 
 public class PracticeMethod1 {
+    //change int to double for understanding the dtatype
      static int max(int x,int y){ //x and y is formal parameter
         if(x>y)
             return x;

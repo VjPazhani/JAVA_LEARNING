@@ -20,7 +20,7 @@ public class PracticeMethodCommandLineArguemets {
 ////----------------------important note to run this program--------------
 /*To run this program and pass command-line arguments, you can execute the following command:
 
-mathematica
+
 
 java _9Method.PracticeMethodCommandLineArguemets argument1 argument2 argument3
 

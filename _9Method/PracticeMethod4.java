@@ -1,4 +1,4 @@
-//difference between PracticeMethod2 And Practice Method2
+//difference between PracticeMethod2 And Practice Method3
 package _9Method;
 public class PracticeMethod4{
     //---------------- -------------------------- -----------------------------
@@ -11,11 +11,16 @@ public class PracticeMethod4{
         ============String is immutable==========
     */
         a[index]=value;
+        
+        for(int x:a){
+            System.out.printf("%d,\t",x);
+        }
         return a[index];
     }
     //------------------------- --------------------------- --------------------------
     static int change1(int x,int value){
         x=value;
+        System.out.println("The value x in method "+x);
         return x;
     }
     public static void main(String args[]){
@@ -41,7 +46,8 @@ public class PracticeMethod4{
         //working
         int x=20;
         change1(x,30);
-        System.out.println("The value 20 is not changed "+x);
+        System.out.println("The value 20 is not changed in main method ");
+        System.out.println(+x);
 
     }
 }

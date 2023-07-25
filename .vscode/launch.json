@@ -1,0 +1,504 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Circle1",
+            "request": "launch",
+            "mainClass": "_10OOPS.Circle1",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "Cylinder1",
+            "request": "launch",
+            "mainClass": "_10OOPS.Cylinder1",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "CylinderTestConstructer",
+            "request": "launch",
+            "mainClass": "_10OOPS.CylinderTestConstructer",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "Rectangle1",
+            "request": "launch",
+            "mainClass": "_10OOPS.Rectangle1",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "RectangleDataHiding",
+            "request": "launch",
+            "mainClass": "_10OOPS.RectangleDataHiding",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "RectangleTestConstructer",
+            "request": "launch",
+            "mainClass": "_10OOPS.RectangleTestConstructer",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_1InheritenceBasicExample",
+            "request": "launch",
+            "mainClass": "_11Inheritence._1InheritenceBasicExample",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_2InheritenceBankAccount",
+            "request": "launch",
+            "mainClass": "_11Inheritence._2InheritenceBankAccount",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_5InheritenceMethodOverriding",
+            "request": "launch",
+            "mainClass": "_11Inheritence._5InheritenceMethodOverriding",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_6MethodOverridingExample",
+            "request": "launch",
+            "mainClass": "_11Inheritence._6MethodOverridingExample",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "DemoForInterface",
+            "request": "launch",
+            "mainClass": "_13Interfaces.DemoForInterface",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "ShoppingComplexInterface",
+            "request": "launch",
+            "mainClass": "_13Interfaces.ShoppingComplexInterface",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_3DOsAndDontInterface",
+            "request": "launch",
+            "mainClass": "_13Interfaces._3DOsAndDontInterface",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_1demoOfInnerClass",
+            "request": "launch",
+            "mainClass": "_14InnerClass._1demoOfInnerClass",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_2demoLocalinnerClass",
+            "request": "launch",
+            "mainClass": "_14InnerClass._2demoLocalinnerClass",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_3AnonymousClass",
+            "request": "launch",
+            "mainClass": "_14InnerClass._3AnonymousClass",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_4demoOfStaticClass",
+            "request": "launch",
+            "mainClass": "_14InnerClass._4demoOfStaticClass",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_1DemoOfStatic",
+            "request": "launch",
+            "mainClass": "_15StaticAndFinal._1DemoOfStatic",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "First",
+            "request": "launch",
+            "mainClass": "_1Introduction.First",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "ReadInputFromKeyboard1",
+            "request": "launch",
+            "mainClass": "_1Introduction.ReadInputFromKeyboard1",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "DatatypesSize",
+            "request": "launch",
+            "mainClass": "_2DataTypes.DatatypesSize",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "ExampleProgram1",
+            "request": "launch",
+            "mainClass": "_4ArithmaticOperator.ExampleProgram1",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_1StringProblem",
+            "request": "launch",
+            "mainClass": "_6StringClassAndPrinting._1StringProblem",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_10CopyTheArray",
+            "request": "launch",
+            "mainClass": "_8Array._10CopyTheArray",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_11ReverseCopyAnArray",
+            "request": "launch",
+            "mainClass": "_8Array._11ReverseCopyAnArray",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_12Intro2",
+            "request": "launch",
+            "mainClass": "_8Array._12Intro2",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_12IntroJaggedArray3",
+            "request": "launch",
+            "mainClass": "_8Array._12IntroJaggedArray3",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_132DMatricesAddition",
+            "request": "launch",
+            "mainClass": "_8Array._132DMatricesAddition",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_142DMatricesMultiplication",
+            "request": "launch",
+            "mainClass": "_8Array._142DMatricesMultiplication",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_15SortingStringArrays",
+            "request": "launch",
+            "mainClass": "_8Array._15SortingStringArrays",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_1Intro1",
+            "request": "launch",
+            "mainClass": "_8Array._1Intro1",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_2SumElementsInArray",
+            "request": "launch",
+            "mainClass": "_8Array._2SumElementsInArray",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_3SearchingAnElememt",
+            "request": "launch",
+            "mainClass": "_8Array._3SearchingAnElememt",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_4LargestElementInArray",
+            "request": "launch",
+            "mainClass": "_8Array._4LargestElementInArray",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_5SecondLargestElement",
+            "request": "launch",
+            "mainClass": "_8Array._5SecondLargestElement",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_6LeftSideRotationArray",
+            "request": "launch",
+            "mainClass": "_8Array._6LeftSideRotationArray",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_7RightSideRotationOfArray",
+            "request": "launch",
+            "mainClass": "_8Array._7RightSideRotationOfArray",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_8InsertionOfAnAraay",
+            "request": "launch",
+            "mainClass": "_8Array._8InsertionOfAnAraay",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_9DeletionOfArray",
+            "request": "launch",
+            "mainClass": "_8Array._9DeletionOfArray",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "PractIceMethodOverloading1",
+            "request": "launch",
+            "mainClass": "_9Method.PractIceMethodOverloading1",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "PracticeMethod1",
+            "request": "launch",
+            "mainClass": "_9Method.PracticeMethod1",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "PracticeMethod2",
+            "request": "launch",
+            "mainClass": "_9Method.PracticeMethod2",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "PracticeMethod3",
+            "request": "launch",
+            "mainClass": "_9Method.PracticeMethod3",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "PracticeMethod4",
+            "request": "launch",
+            "mainClass": "_9Method.PracticeMethod4",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "PracticeMethodCommandLineArguemets",
+            "request": "launch",
+            "mainClass": "_9Method.PracticeMethodCommandLineArguemets",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "PracticeMethodRecursion",
+            "request": "launch",
+            "mainClass": "_9Method.PracticeMethodRecursion",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "PracticeMethodVariableArguements",
+            "request": "launch",
+            "mainClass": "_9Method.PracticeMethodVariableArguements",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "PracticeMethodVariableArguements1",
+            "request": "launch",
+            "mainClass": "_9Method.PracticeMethodVariableArguements1",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "SumOfNumbersInCommandLine",
+            "request": "launch",
+            "mainClass": "_9Method.ProblemSolvingCommandLineArguements.SumOfNumbersInCommandLine",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "GCD",
+            "request": "launch",
+            "mainClass": "_9Method.ProblemSolvingUsingMethod.GCD",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "MaximumElementInArray",
+            "request": "launch",
+            "mainClass": "_9Method.ProblemSolvingUsingMethod.MaximumElementInArray",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "_9Method.ProblemSolvingUsingMethod.PrimeNumber",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfDifferentMeasuremnts",
+            "request": "launch",
+            "mainClass": "_9Method.ProblemSolvingUsingMethodOverLoading.AreaOfDifferentMeasuremnts",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "ReverseIntOrArray",
+            "request": "launch",
+            "mainClass": "_9Method.ProblemSolvingUsingMethodOverLoading.ReverseIntOrArray",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "ValidateStringAndAge",
+            "request": "launch",
+            "mainClass": "_9Method.ProblemSolvingUsingMethodOverLoading.ValidateStringAndAge",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "Discount",
+            "request": "launch",
+            "mainClass": "_9Method.ProblemSolvingUsingVarArgs.Discount",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "MaxVarArgs",
+            "request": "launch",
+            "mainClass": "_9Method.ProblemSolvingUsingVarArgs.MaxVarArgs",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "SumOfElements",
+            "request": "launch",
+            "mainClass": "_9Method.ProblemSolvingUsingVarArgs.SumOfElements",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_10SumOfNatural",
+            "request": "launch",
+            "mainClass": "java_problemSolving._10SumOfNatural",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_11Factorial",
+            "request": "launch",
+            "mainClass": "java_problemSolving._11Factorial",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_12Multiplication",
+            "request": "launch",
+            "mainClass": "java_problemSolving._12Multiplication",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_1OddEven1",
+            "request": "launch",
+            "mainClass": "java_problemSolving._1OddEven1",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_2VowelOrConsonant2",
+            "request": "launch",
+            "mainClass": "java_problemSolving._2VowelOrConsonant2",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_3Smallest3",
+            "request": "launch",
+            "mainClass": "java_problemSolving._3Smallest3",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_4Largest",
+            "request": "launch",
+            "mainClass": "java_problemSolving._4Largest",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_5QuadraticEquation",
+            "request": "launch",
+            "mainClass": "java_problemSolving._5QuadraticEquation",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_6DecimalToBinary",
+            "request": "launch",
+            "mainClass": "java_problemSolving._6DecimalToBinary",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_7BinaryToDecimal",
+            "request": "launch",
+            "mainClass": "java_problemSolving._7BinaryToDecimal",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_8LeapYear",
+            "request": "launch",
+            "mainClass": "java_problemSolving._8LeapYear",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        },
+        {
+            "type": "java",
+            "name": "_9CheckAlphabet",
+            "request": "launch",
+            "mainClass": "java_problemSolving._9CheckAlphabet",
+            "projectName": "JAVA_LEARNING_d8a17af4"
+        }
+    ]
+}

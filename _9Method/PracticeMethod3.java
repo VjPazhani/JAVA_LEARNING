@@ -13,5 +13,5 @@ public class PracticeMethod3 {
         System.out.println(a[0]);//this does not print entire array because it doesn't have any loop;
     }
 }
-//important note the actual paramter pass only reference to formal paremeter
-//now the formal parameter as a reference and it als o point the same objetc that actual parameter 
+//important note the actual paramter pass only address to formal paremeter
+//now the formal parameter as a address and it als o point the same objetc that actual parameter 

@@ -7,14 +7,16 @@ public class PracticeMethod2 {
         else
             return y;
      }
+     //always declare main method as a static
      public static void main(String args[]){
             int a=4,b=9;
-            //method calling
+            //method callingmax 
            // c=max(a,b);//this actual parameter
             //System.out.println(c);
             //creating a object for an classs
             PracticeMethod2 pm = new PracticeMethod2();
-            //then call the method note elimonate the static word
+            //then call the method note eliminate the static word
+
         System.out.println(pm.max(a, b));
 
 
