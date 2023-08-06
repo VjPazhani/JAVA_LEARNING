@@ -8,10 +8,13 @@ public class _11ReverseCopyAnArray {
         int a[]=new int [s];
         int b[]= new int[s];
         int i;
-        for(i=0;i<a.length;i++){
+        try{
+            for(i=0;i<a.length;i++){
             System.out.printf("Enter the value for array a[%d]:",i);
             a[i]=sc.nextInt();
         }
+        sc.close();
+    } catch(Exception e){}
 
         for(i=0;i<a.length;i++){
             b[i]=a[i];

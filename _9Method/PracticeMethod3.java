@@ -4,8 +4,8 @@ package _9Method;
 public class PracticeMethod3 {
     //String is immutable so we get array as a object for more understanding go to datatype introductio
     //In main method a[] is created in stack and its value created in heap
-    static void update(int a[]){ //we put void so it return nothing
-        a[0]=25; //this reference a[] different from main method references a[]
+    static void update(int b[]){ //we put void so it return nothing
+        b[0]=25; //this reference a[] different from main method references a[]
     }
     public static void main(String args[]){
         int a[]={1,2,3,4,5};//first in this array value passed to formal parameter in the update method

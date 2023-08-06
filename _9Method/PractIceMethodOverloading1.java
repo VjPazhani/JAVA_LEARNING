@@ -37,16 +37,14 @@ public class PractIceMethodOverloading1 {
     }
     public static void main(String args[]){
         //if we put numberr in actual parameter compiler put automaticlly arguements
-        System.out.println("--------------Printing the int method ------------");
 /*        System.out.println("--------------try to print the byte method  without intialize byte variable but it call the float method------------");
         but it call the float method not call the byte methhod because integer is compatible with float
- */
+ */     
+         byte a=20,b=30;
+        System.out.println(max(a,b));
         System.out.println(max(10,67));
-        System.out.println("--------------Printing the float method ------------");
         System.out.println(max(15f,47f));
-        System.out.println("--------------Printing the int method with three parameter ------------");
         System.out.println(max(15,47,109));
-        System.out.println("Calling method with same name but it performs various operations.It denotes that max acts as a Polymorphism");
         
         /* ---run it for understandin the double literal---------------
         System.out.println("--------------Printing the float method without specify the format parameter ------------");

@@ -7,10 +7,13 @@ public class _6LeftSideRotationArray {
         int s = sc.nextInt();
         int a[] = new int[s];
         int i,temp;
+       try{
         for(i=0;i<a.length;i++){
             System.out.printf("Enter the value of array a[%d]: ",i);
             a[i]= sc.nextInt();
         }
+        sc.close();
+    }catch(Exception e){}
         temp=a[0];
         for(i=1;i<a.length;i++){
             a[i-1]=a[i];

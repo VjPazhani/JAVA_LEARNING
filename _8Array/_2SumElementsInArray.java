@@ -9,10 +9,13 @@ public class _2SumElementsInArray {
         int s = sc.nextInt();
         int a[]= new int [s];
         int i,sum=0;
-        for(i=0;i<a.length;i++){
+        try{
+            for(i=0;i<a.length;i++){
             System.out.printf("ENter the value of array a[%d]: ",i);
             a[i]=sc.nextInt();
         }
+        sc.close();
+    }catch(Exception e){}
 
         for( i=0;i<a.length;i++){
             sum+=a[i];

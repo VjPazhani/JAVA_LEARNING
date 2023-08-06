@@ -37,7 +37,7 @@ public class PracticeMethod2 {
             //creating a object for an classs
             PracticeMethod2 pm = new PracticeMethod2();
             //then call the method note elimonate the static word
-        System.out.println(pm.max(a, b));]
+        System.out.println(pm.max(a, b));
         
 
      }*/

@@ -13,10 +13,13 @@ public class _8InsertionOfAnAraay{
         x=sc.nextInt();
         System.out.print("Enter the index that the value should be insert: ");
         index=sc.nextInt();
-        for(i=0;i<length;i++){
+        try{
+            for(i=0;i<length;i++){
             System.out.printf("Enter the value of array a[%d]: ",i);
             a[i]= sc.nextInt();
         } 
+        sc.close();
+    } catch(Exception e){}
         for(i=0;i<length;i++){
             System.out.printf("%d\t",a[i]);
            

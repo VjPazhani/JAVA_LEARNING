@@ -8,10 +8,12 @@ public class _4LargestElementInArray {
         int s = sc.nextInt();
         int a[] = new int[s];
         int i,max;
-        for(i=0;i<a.length;i++){
+        try{for(i=0;i<a.length;i++){
             System.out.printf("Enter the value of array a[%d]: ",i);
             a[i]= sc.nextInt();
         }
+        sc.close();
+    }catch(Exception e){}
         max=a[0];
         for(int x:a){ //you can use for loop for traversing array
             if(x>max){

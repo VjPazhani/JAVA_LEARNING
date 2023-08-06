@@ -9,11 +9,14 @@ public class _3SearchingAnElememt {
         int s = sc.nextInt();
         int a[] = new int[s];
         int i;
-        for(i=0;i<a.length;i++){
+        try{
+            for(i=0;i<a.length;i++){
             System.out.printf("Enter the value of array a[%d]: ",i);
             a[i]= sc.nextInt();
             
         }
+        sc.close();
+    } catch(Exception e){}
         System.out.print("Enter the value to search: ");
         int X = sc.nextInt();
         sc.close();

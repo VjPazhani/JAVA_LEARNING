@@ -4,7 +4,10 @@ package _9Method;
 public class PracticeMethodVariableArguements {
     static void show(int ...A){ //int ...A is called as varargs
         //it means it passing numerous parameter in array form you should not put like int a[]
+        System.out.println("hi");
+       
         for(int x:A){
+
             System.out.println(x);
         }
         //try it for double

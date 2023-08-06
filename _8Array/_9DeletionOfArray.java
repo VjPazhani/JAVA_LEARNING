@@ -13,10 +13,12 @@ public class _9DeletionOfArray {
        
         System.out.print("Enter the index that the value should be delete: ");
         index=sc.nextInt();
-        for(i=0;i<length;i++){
+        try{for(i=0;i<length;i++){
             System.out.printf("Enter the value of array a[%d]: ",i);
             a[i]= sc.nextInt();
         } 
+        sc.close();
+    }catch(Exception e){}
         for(i=0;i<a.length;i++){
             System.out.printf("%d\t",a[i]);
         }
